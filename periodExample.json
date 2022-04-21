@@ -1,0 +1,21 @@
+[
+    {
+        "startTime": 0,
+        "endTime": 0,
+        "courseCode": "SE 506",
+        "isTheory": true,
+        "courseTeachers": [
+            "SA",
+            "KKG"
+        ]
+    },
+    {
+        "startTime": 0,
+        "endTime": 0,
+        "courseCode": "BUS 503",
+        "isTheory": true,
+        "courseTeachers": [
+            "IA"
+        ]
+    }
+]
